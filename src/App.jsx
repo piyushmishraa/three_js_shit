@@ -1,8 +1,10 @@
-import React from 'react'
+// import React from 'react'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <h1 className="text-xl text-center text-amber-700"> hemlo world </h1>
+    </div>
   )
 }
 
